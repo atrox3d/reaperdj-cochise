@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1681640819
+<REAPER_PROJECT 0.1 "6.68/win64" 1681641081
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,7 +16,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 222.1200218941969
+  CURSOR 0
   ZOOM 4.61122669093424 0 0
   VZOOMEX 12 0
   USE_REC_CFG 0
@@ -1144,13 +1144,15 @@
         E 840 90 28 7f
         E 120 80 28 00
         E 840 90 28 7f
-        e 0 90 2d 7f
+        E 0 90 2d 7f
         E 120 80 28 00
-        e 0 80 2d 00
+        E 0 80 2d 00
         E 840 90 28 7f
         E 120 80 28 00
         E 840 90 28 7f
+        e 0 90 2b 7f
         E 120 80 28 00
+        e 0 80 2b 00
         E 840 90 28 7f
         E 120 80 28 00
         E 38736 b0 7b 00
@@ -1160,7 +1162,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 218
         VELLANE -1 100 0
-        CFGEDITVIEW 271261.797276 0.02308 78 15 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.02308 78 15 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 0
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -1228,7 +1230,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.29516224459529 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
