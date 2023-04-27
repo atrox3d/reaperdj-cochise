@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1682581151
+<REAPER_PROJECT 0.1 "6.68/win64" 1682581269
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,7 +16,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 181.924
+  CURSOR 181.92399999999972
   ZOOM 4.61122669093424 0 0
   VZOOMEX 12 0
   USE_REC_CFG 0
@@ -523,7 +523,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       COLOR 33554431 R
-      SEL 1
+      SEL 0
       IGUID {73A1BDAA-B401-4012-AE16-94117358DBF5}
       IID 2
       NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
@@ -944,7 +944,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {B068085E-AF36-4B57-8E1A-C34936B67CD7}
       IID 259
       NAME "untitled MIDI item"
@@ -1156,13 +1156,19 @@
         E 120 80 28 00
         E 0 80 2d 00
         E 840 90 28 7f
+        E 0 90 2d 60
         E 120 80 28 00
+        E 0 80 2d 00
         E 840 90 28 7f
-        e 0 90 2b 7f
+        E 0 90 2b 7f
+        E 0 90 2d 60
         E 120 80 28 00
-        e 0 80 2b 00
+        E 0 80 2b 00
+        E 0 80 2d 00
         E 840 90 28 7f
+        e 0 90 2d 60
         E 120 80 28 00
+        e 0 80 2d 00
         E 38736 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -1170,11 +1176,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 218
         VELLANE -1 100 0
-        CFGEDITVIEW 0 0.02308 78 15 0 -1 0 0 0 0.5
+        CFGEDITVIEW 232043.372886 0.029153 78 15 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 0
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 0 0 0 1 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 1226 153 2474 1056 0 0 0 2 0 0 0 1 0 0.5 0 0 1 64
       >
     >
   >
@@ -1238,7 +1244,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.29516224459529 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
