@@ -1,0 +1,2285 @@
+<REAPER_PROJECT 0.1 "7.18/macOS-arm64" 1722000611
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 7.96819972193435 939 0
+  VZOOMEX 0.7833333 115
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3/cochise-con-click.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 170.422857 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbUABAAAAAAAACgAAAP////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 3.981072 15.848932
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 81 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1.1694787061438 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 20 60 716 200
+    SHOW 0
+    LASTSEL 1
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VST: ReaComp (Cockos)" reacomp.vst.dylib 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+      bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+      776t3g3wrd4AAIA/ED74PKabxDsK16M8AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAIA/AAAAAAAAgD4AAAAAAAAAAAAAAAA=
+      AFByb2dyYW0gMQAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {ACB525B1-F561-4761-AD74-AF0F4E582D9B}
+    WAK 0 0
+    BYPASS 0 0 0
+    <JS sstillwell/eventhorizon2 ""
+      0 -0.2 20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    >
+    FLOATPOS 0 0 0 0
+    FXID {E5C92975-F50C-4C00-B0B4-638C3614AF9F}
+    WAK 0 0
+  >
+  <MASTERPLAYSPEEDENV
+    EGUID {07D190BB-B381-447B-8CF4-7084C38AC920}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {F3CEAE0F-6CD5-474E-B023-823CF3DE6243}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 80.0000000000 1
+    PT 6.000000000000 80.2906759998 1
+    PT 11.978278225001 80.3365931905 1
+    PT 17.953139504737 80.7199000965 1
+    PT 23.899628529456 80.4201739116 1
+    PT 29.868280133317 80.4286065425 1
+    PT 38.820318853764 80.6187450922 1
+    PT 50.728219415869 80.0000000000 1
+    PT 53.728219415869 80.8357992149 1
+    PT 59.666182603737 81.5830841484 1
+    PT 62.607968912815 81.5830841484 1
+    PT 65.549755221893 80.0000000000 1
+    PT 71.549755221893 80.8618304119 1
+    PT 77.485806849156 80.4286065425 1
+    PT 83.453832662788 81.0017320048 1
+    PT 89.379631878682 80.2393627624 1
+    PT 95.361733224893 80.5235635750 1
+    PT 101.322721272235 80.0000000000 1
+    PT 110.322721272235 81.9388406446 1
+    PT 113.251735133208 80.2393627624 1
+    PT 125.215937825630 80.3338732014 1
+    PT 137.166064985473 80.6189518073 1
+    PT 143.120000000000 80.6722689076 1
+    PT 149.070000000000 80.7174887892 1
+    PT 153.530000000000 80.8988764045 1
+    PT 157.980000000000 80.8080808081 1
+    PT 160.950000000000 80.1335559265 1
+    PT 166.940000000000 80.0000000000 1
+    PT 172.940000000000 80.2675585284 1
+    PT 178.920000000000 79.8934753662 1
+    PT 181.924000000000 79.8930000000 1 262150 0 1
+    PT 186.430026810859 81.3560000000 1 262148 0 1
+    PT 192.330021894197 80.0000000000 1
+    PT 196.830021894197 80.8080808081 1
+    PT 199.800021894197 80.5369127517 1
+    PT 202.780021894197 81.0810810811 1
+    PT 205.740021894197 80.4020100503 1
+    PT 211.710021894197 80.2675585284 1
+    PT 214.700021894197 80.8080808081 1
+    PT 217.670021894197 81.3559322034 1
+    PT 220.620021894197 80.0000000000 1
+  >
+  MARKER 1 6 "INTRO EFFECT" 1 25231232 1 B {FEABB929-3D25-4FBC-9449-4261F3798A65} 0
+  MARKER 1 17.95313950473687 "" 1
+  MARKER 2 17.95313950473687 "INTRO BASS" 1 25231104 1 B {98D2C43F-2BE8-40B0-8B91-9CBDED218999} 0
+  MARKER 2 29.86828013331695 "" 1
+  MARKER 3 29.86828013331695 "INTRO CRESCENDO" 1 16842496 1 B {18EB62F5-B45B-4627-ABA3-A7981F5D600F} 0
+  MARKER 3 53.72821941586911 "" 1
+  MARKER 4 53.72821941586911 PRE-VERSE 1 33554176 1 B {9EE52327-0690-4338-9F83-5969519D80EA} 0
+  MARKER 4 65.54975522189302 "" 1
+  MARKER 5 65.54975522189302 VERSE 1 33521664 1 B {B8612ECB-647D-46C8-ACB1-5746759131D7} 0
+  MARKER 5 89.37963187868172 "" 1
+  MARKER 6 89.37963187868172 CHORUS 1 33488896 1 B {3FF1D978-213F-4D56-9988-913AB9E8142C} 0
+  MARKER 6 101.3227212722347 "" 1
+  MARKER 7 101.3227212722347 PRE-VERSE 1 33554176 1 B {A594C01C-4C4B-43A1-A5E4-4F9432CF9F31} 0
+  MARKER 7 113.25173513320836 "" 1
+  MARKER 8 113.25173513320836 VERSE 1 33521664 1 B {B33D2BCC-85F6-4360-97CF-51764673D683} 0
+  MARKER 8 137.16606498547296 "" 1
+  MARKER 9 137.16606498547296 CHORUS 1 33488896 1 B {20E164CA-7707-4FB4-ABD8-9B2FC4688EDC} 0
+  MARKER 9 160.95 "" 1
+  MARKER 10 160.95 SPECIAL 1 25166079 1 B {7E43A696-8FC5-4803-A4CC-0AF744121F34} 0
+  MARKER 10 181.924 "" 1
+  MARKER 11 181.924 STOP 1 33554431 1 B {C2FCC029-D520-4B6B-B0B7-F55CB930B0C5} 0
+  MARKER 11 198.31502189419692 "" 1
+  MARKER 12 198.31502189419692 CHORUS/FINALE 1 33488896 1 B {898BD3D9-0DA4-4608-BB6A-1184D20D3284} 0
+  MARKER 12 222.1200218941969 "" 1
+  MARKER 13 222.1200218941969 STOP 1 33554431 1 B {8630AC85-C0BA-4FB7-B66B-00043A280741} 0
+  MARKER 13 225.1200218941969 "" 1
+  <PROJBAY
+  >
+  <TRACK {1612388E-8C4E-0244-8567-8A5BA0598410}
+    NAME DRUMCLICK
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1612388E-8C4E-0244-8567-8A5BA0598410}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {63AB8610-2755-4305-9245-6C0697288E95}
+    NAME DRUMS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.30701527295625 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {63AB8610-2755-4305-9245-6C0697288E95}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.7146662272039
+      SNAPOFFS 0
+      LENGTH 0.2853337727961
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B577BEA-D5AB-4296-A39A-BC80BD668625}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.48148148148148
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B75E604-94BA-46A1-9355-F735F487F1A7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 11.95313950473687
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25231232 B
+      SEL 0
+      IGUID {D1283662-95BE-4AE8-802C-A67347932888}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.76681525427758
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57F11DA8-61EC-42C5-8E8A-060E50D178BA}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 17.95313950473687
+      SNAPOFFS 0
+      LENGTH 11.91514062858008
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25231104 B
+      SEL 0
+      IGUID {B52696BF-609A-400B-A60A-C8A406A8E88C}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.71995475901445
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C17216D-A80B-4804-8B06-297F947447D5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 29.86828013331695
+      SNAPOFFS 0
+      LENGTH 23.85993928255217
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 B
+      SEL 0
+      IGUID {AF3C6B74-D898-4D7B-9CE2-47EF92AF0269}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 25.63509538759453
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ADF585BB-7340-4653-B613-105C7A07CE49}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 53.72821941586911
+      SNAPOFFS 0
+      LENGTH 11.82153580602391
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 B
+      SEL 0
+      IGUID {9FAFFF92-83C6-4E2B-B892-80EFE3CBD2F4}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 49.49503467014669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFF8F0F9-8387-46DE-B0A2-679C9948033B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 65.54975522189302
+      SNAPOFFS 0
+      LENGTH 23.8298766567887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521664 B
+      SEL 0
+      IGUID {A0CEA5FD-37BF-4BC5-9F74-97FF3CC07C49}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.3165704761706
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8CDCA04-C4CC-48BB-98C1-CB33717D1464}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 89.37963187868172
+      SNAPOFFS 0
+      LENGTH 11.94308939355298
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 B
+      SEL 0
+      IGUID {181E6612-1F17-4DB4-BA0B-2BCEB39E5A86}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 85.14644713295931
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BFD5A36-5FE1-4A52-ACA2-A6C3BE899EAB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 101.3227212722347
+      SNAPOFFS 0
+      LENGTH 11.92901386097365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 B
+      SEL 0
+      IGUID {62E9888E-397D-49B1-9992-6F1B9BADE747}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 97.08953652651229
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6341BE1-4DB8-4066-96DA-78293A5CE0B7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 113.25173513320836
+      SNAPOFFS 0
+      LENGTH 23.9143298522646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521664 B
+      SEL 0
+      IGUID {8E35AE04-B65D-401B-A869-62709C6D05B2}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 109.01855038748594
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7418003-A739-4B3E-BBB3-8F08F42EF70D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 137.16606498547296
+      SNAPOFFS 0
+      LENGTH 23.78393501452706
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 B
+      SEL 0
+      IGUID {EABFE865-57E7-4673-B7FA-FC9567469DB2}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 132.93288023975055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DB17521-D540-428C-B2BA-04F0C2FC9509}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 160.95
+      SNAPOFFS 0
+      LENGTH 20.974
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25166079 B
+      SEL 0
+      IGUID {62DEBB20-EA97-4890-BD7B-C742F9DA0B83}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 156.71681525427761
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA562CFD-1625-49B6-8259-5A2A1D54AC11}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 181.924
+      SNAPOFFS 0
+      LENGTH 16.39102189419694
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {D09F10F5-E1DD-474F-AFFC-98C8DD7EB48F}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 177.69081525427757
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CB5614B-4A4F-421C-99DE-D1D85128E18F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 198.31502189419692
+      SNAPOFFS 0
+      LENGTH 23.805
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 B
+      SEL 0
+      IGUID {24B9DD42-A134-46F8-896F-787F07DC76E9}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 194.08183714847451
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40B33BF0-F5C6-4840-A309-47B10AEDF36B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 222.1200218941969
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {73A1BDAA-B401-4012-AE16-94117358DBF5}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 217.88683714847448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDA3E4F1-A0C5-4DCB-B166-74A70937C82D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 225.1200218941969
+      SNAPOFFS 0
+      LENGTH 2.60616285152548
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC9DA289-189A-4BBE-9931-B10F06417DD9}
+      IID 2
+      NAME "audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 220.88683714847448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9CF8C2B-5216-4361-84DA-8D266C4F0464}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-drums-E minor-81bpm-441hz.m4a"
+      >
+    >
+  >
+  <TRACK {5475EED7-D925-4343-95A2-C963A4C9D155}
+    NAME CLICK
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5475EED7-D925-4343-95A2-C963A4C9D155}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      0 0 "" 0 0
+      0 1 "" 0 1
+      0 2 "" 0 2
+      0 3 "" 0 3
+      0 4 "" 0 4
+      0 5 "" 0 5
+      0 6 "" 0 6
+      0 7 "" 0 7
+      0 8 "" 0 8
+      0 9 "" 0 9
+      0 10 "" 0 10
+      0 11 "" 0 11
+      0 12 "" 0 12
+      0 13 "" 0 13
+      0 14 "" 0 14
+      0 15 "" 0 15
+      0 16 "" 0 16
+      0 17 "" 0 17
+      0 18 "" 0 18
+      0 19 "" 0 19
+      0 20 "" 0 20
+      0 21 "" 0 21
+      0 22 "" 0 22
+      0 23 "" 0 23
+      0 24 "" 0 24
+      0 25 "" 0 25
+      0 26 "" 0 26
+      0 27 "" 0 27
+      0 28 "" 0 28
+      0 29 "" 0 29
+      0 30 "" 0 30
+      0 31 "" 0 31
+      0 32 "" 0 32
+      0 33 "" 0 33
+      0 34 "" 0 34
+      0 35 "" 0 35
+      0 36 Kick 0 36
+      0 37 Snare 0 37
+      0 38 "Closed Hi-Hat" 0 38
+      0 39 "Open Hi-Hat" 0 39
+      0 40 Cymbal 0 40
+      0 41 "Low Tom" 0 41
+      0 42 "Mid Tom" 0 42
+      0 43 "High Tom" 0 43
+      0 44 "Low Conga" 0 44
+      0 45 "Mid Conga" 0 45
+      0 46 "High Conga" 0 46
+      0 47 "Hand Clap" 0 47
+      0 48 Clave 0 48
+      0 49 Maraca 0 49
+      0 50 Cowbell 0 50
+      0 51 "Rim Shot" 0 51
+      0 52 "" 0 52
+      0 53 "" 0 53
+      0 54 "" 0 54
+      0 55 "" 0 55
+      0 56 "" 0 56
+      0 57 "" 0 57
+      0 58 "" 0 58
+      0 59 "" 0 59
+      0 60 "" 0 60
+      0 61 "" 0 61
+      0 62 "" 0 62
+      0 63 "" 0 63
+      0 64 "" 0 64
+      0 65 "" 0 65
+      0 66 "" 0 66
+      0 67 "" 0 67
+      0 68 "" 0 68
+      0 69 "" 0 69
+      0 70 "" 0 70
+      0 71 "" 0 71
+      0 72 "" 0 72
+      0 73 "" 0 73
+      0 74 "" 0 74
+      0 75 "" 0 75
+      0 76 "" 0 76
+      0 77 "" 0 77
+      0 78 "" 0 78
+      0 79 "" 0 79
+      0 80 "" 0 80
+      0 81 "" 0 81
+      0 82 "" 0 82
+      0 83 "" 0 83
+      0 84 "" 0 84
+      0 85 "" 0 85
+      0 86 "" 0 86
+      0 87 "" 0 87
+      0 88 "" 0 88
+      0 89 "" 0 89
+      0 90 "" 0 90
+      0 91 "" 0 91
+      0 92 "" 0 92
+      0 93 "" 0 93
+      0 94 "" 0 94
+      0 95 "" 0 95
+      0 96 "" 0 96
+      0 97 "" 0 97
+      0 98 "" 0 98
+      0 99 "" 0 99
+      0 100 "" 0 100
+      0 101 "" 0 101
+      0 102 "" 0 102
+      0 103 "" 0 103
+      0 104 "" 0 104
+      0 105 "" 0 105
+      0 106 "" 0 106
+      0 107 "" 0 107
+      0 108 "" 0 108
+      0 109 "" 0 109
+      0 110 "" 0 110
+      0 111 "" 0 111
+      0 112 "" 0 112
+      0 113 "" 0 113
+      0 114 "" 0 114
+      0 115 "" 0 115
+      0 116 "" 0 116
+      0 117 "" 0 117
+      0 118 "" 0 118
+      0 119 "" 0 119
+      0 120 "" 0 120
+      0 121 "" 0 121
+      0 122 "" 0 122
+      0 123 "" 0 123
+      0 124 "" 0 124
+      0 125 "" 0 125
+      0 126 "" 0 126
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 83 793 169
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS sstillwell/eventhorizon2 ""
+        0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A15A6741-6812-4110-A164-1FDD118F09C4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.vst.dylib 0 CLAVE 1920167789<56535472736F6D72656173616D706C6F> ""
+        bW9zcu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABGAQAAAQAAAAAAEAA=
+        L1VzZXJzL25pZ2dhL3JlYXBlci1tZWRpYS9kai1lcm5pYS9jb2NoaXNlLzgwOC1DbGF2ZTMud2F2AAAAAAAAAPA/AAAAAAAA4D8AAAAAAADwPwwGg8FgMNg/DAaDwWAw
+        2D+amZmZmZmxP83MzMzMzOs/AAAAAAAAAAAAAAAAAAAAAPyp8dJNYkA//Knx0k1iQD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAOA/AQAAAAAA
+        AAAAAAAAAAAAAAAA8D9AAAAAVVVVVVVVxT//////CAQCgUAggD8AAAAAAADwPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADOpCEhGmWQPwAA
+        AAAAAPA//Knx0k1iMD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A6696DE4-4BA1-924A-BF51-480684B8670B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.vst.dylib 0 COWBELL 1920167789<56535472736F6D72656173616D706C6F> ""
+        bW9zcu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABIAQAAAQAAAAAAEAA=
+        L1VzZXJzL25pZ2dhL3JlYXBlci1tZWRpYS9kai1lcm5pYS9jb2NoaXNlLzgwOC1Db3diZWxsNS53YXYAAAAAAAAA8D8AAAAAAADgPwAAAAAAAPA/TSaTyWQy2T9NJpPJ
+        ZDLZP5qZmZmZmbE/zczMzMzM6z8AAAAAAAAAAAAAAAAAAAAA/Knx0k1iQD/8qfHSTWJAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA4D8BAAAA
+        AAAAAAAAAAAAAAAAAADwP0AAAABVVVVVVVXFP/////8IBAKBQCCAPwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM6kISEaZZA/
+        AAAAAAAA8D/8qfHSTWIwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E571DC23-BDF2-E440-9C73-0281F4066AEC}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.00000000000163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {239736A6-09B6-472E-BE6D-C9B52133FE0B}
+      IID 235
+      NAME CLICK
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7686FB24-6784-4111-81B0-DDAF1C5EC152}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {366CF3F8-9671-4ECA-8749-B9BA75641B56}
+        E 0 90 30 7f
+        E 0 90 32 60
+        E 120 80 30 00
+        E 0 80 32 00
+        E 1800 90 30 7f
+        E 0 90 32 60
+        E 120 80 30 00
+        E 0 80 32 00
+        E 1800 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {179A1FCC-1750-4690-91C4-26E0674224D8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 163
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 6674.062488 0.164604 69 18 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 1421 30 2669 933 0 0 0 2 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 3.00000000000161
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {4E45F3C5-BE94-4517-9EC7-A96AA2EB61F5}
+      IID 206
+      NAME CLICK
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB2F6107-648A-4319-B6BD-E64999DB4701}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {154A9110-9C52-4D1F-9634-C9E69056169B}
+        E 0 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CEC0EF09-E59A-41F4-93C7-E0F267FB7E58}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 133
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 232441.640848 0.029641 75 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 1 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 6.0000000000016
+      SNAPOFFS 0
+      LENGTH 233.19654978443072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {06786155-7EFE-4950-ABF0-393A21DA29FD}
+      IID 206
+      NAME CLICK
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6571F6AA-E022-478E-AFE2-6DA82B323737}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {64130314-E3E2-4890-8571-7B80F457D65E}
+        E 0 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 618 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {9410BA31-EAA4-4F46-8F60-14D0BB48F868}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 162
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 0 0.029641 75 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 1 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {1E420514-8504-4EE0-AA0B-F23E8F91F3AD}
+    NAME AUDIO-CLICK
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1E420514-8504-4EE0-AA0B-F23E8F91F3AD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 227.72618474572241
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {311A322C-DFE1-4B9D-8553-2AA17ED4CE55}
+      IID 8
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2543B0BD-0194-4674-94A5-40E07C1EA3C5}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 81
+        BPI 4
+        VOL 0.5 0.25
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "" ""
+        PATTERN 2863311530 2863311529
+        MULT 1
+      >
+    >
+  >
+  <TRACK {DA467F54-7F79-499F-8BDF-FF3944818883}
+    NAME HINTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.07764838953716 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DA467F54-7F79-499F-8BDF-FF3944818883}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      0 0 "" 0 0
+      0 1 "" 0 1
+      0 2 "" 0 2
+      0 3 "" 0 3
+      0 4 "" 0 4
+      0 5 "" 0 5
+      0 6 "" 0 6
+      0 7 "" 0 7
+      0 8 "" 0 8
+      0 9 "" 0 9
+      0 10 "" 0 10
+      0 11 "" 0 11
+      0 12 "" 0 12
+      0 13 "" 0 13
+      0 14 "" 0 14
+      0 15 "" 0 15
+      0 16 "" 0 16
+      0 17 "" 0 17
+      0 18 "" 0 18
+      0 19 "" 0 19
+      0 20 "" 0 20
+      0 21 "" 0 21
+      0 22 "" 0 22
+      0 23 "" 0 23
+      0 24 "" 0 24
+      0 25 "" 0 25
+      0 26 "" 0 26
+      0 27 "" 0 27
+      0 28 "" 0 28
+      0 29 "" 0 29
+      0 30 "" 0 30
+      0 31 "" 0 31
+      0 32 "" 0 32
+      0 33 "" 0 33
+      0 34 "" 0 34
+      0 35 "" 0 35
+      0 36 "Acoustic Sticks 01" 0 36
+      0 37 "Acoustic Sticks 02" 0 37
+      0 38 "Acoustic Sticks 03" 0 38
+      0 39 "Acoustic Sticks 04" 0 39
+      0 40 "Acoustic Hat Pedal 01" 0 40
+      0 41 "Acoustic Closed Hat 07" 0 41
+      0 42 "Hi Hat Open 2" 0 42
+      0 43 "Hi Hat Open 3" 0 43
+      0 44 "Ride Cymbal 1" 0 44
+      0 45 "Ride Cymbal Bell 2" 0 45
+      0 46 "Acoustic Crash 01" 0 46
+      0 47 "Acoustic Crash 06" 0 47
+      0 48 "China 4" 0 48
+      0 49 "Hi Hat 5" 0 49
+      0 50 Cowbell 0 50
+      0 51 "Rim Shot" 0 51
+      0 52 "" 0 52
+      0 53 "" 0 53
+      0 54 "" 0 54
+      0 55 "" 0 55
+      0 56 "" 0 56
+      0 57 "" 0 57
+      0 58 "" 0 58
+      0 59 "" 0 59
+      0 60 "" 0 60
+      0 61 "" 0 61
+      0 62 "" 0 62
+      0 63 "" 0 63
+      0 64 "" 0 64
+      0 65 "" 0 65
+      0 66 "" 0 66
+      0 67 "" 0 67
+      0 68 "" 0 68
+      0 69 "" 0 69
+      0 70 "" 0 70
+      0 71 "" 0 71
+      0 72 "" 0 72
+      0 73 "" 0 73
+      0 74 "" 0 74
+      0 75 "" 0 75
+      0 76 "" 0 76
+      0 77 "" 0 77
+      0 78 "" 0 78
+      0 79 "" 0 79
+      0 80 "" 0 80
+      0 81 "" 0 81
+      0 82 "" 0 82
+      0 83 "" 0 83
+      0 84 "" 0 84
+      0 85 "" 0 85
+      0 86 "" 0 86
+      0 87 "" 0 87
+      0 88 "" 0 88
+      0 89 "" 0 89
+      0 90 "" 0 90
+      0 91 "" 0 91
+      0 92 "" 0 92
+      0 93 "" 0 93
+      0 94 "" 0 94
+      0 95 "" 0 95
+      0 96 "" 0 96
+      0 97 "" 0 97
+      0 98 "" 0 98
+      0 99 "" 0 99
+      0 100 "" 0 100
+      0 101 "" 0 101
+      0 102 "" 0 102
+      0 103 "" 0 103
+      0 104 "" 0 104
+      0 105 "" 0 105
+      0 106 "" 0 106
+      0 107 "" 0 107
+      0 108 "" 0 108
+      0 109 "" 0 109
+      0 110 "" 0 110
+      0 111 "" 0 111
+      0 112 "" 0 112
+      0 113 "" 0 113
+      0 114 "" 0 114
+      0 115 "" 0 115
+      0 116 "" 0 116
+      0 117 "" 0 117
+      0 118 "" 0 118
+      0 119 "" 0 119
+      0 120 "" 0 120
+      0 121 "" 0 121
+      0 122 "" 0 122
+      0 123 "" 0 123
+      0 124 "" 0 124
+      0 125 "" 0 125
+      0 126 "" 0 126
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 20 69 808 621
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.vst.dylib 0 CLAVE 1920167789<56535472736F6D72656173616D706C6F> ""
+        bW9zcu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABGAQAAAQAAAAAAEAA=
+        L1VzZXJzL25pZ2dhL3JlYXBlci1tZWRpYS9kai1lcm5pYS9jb2NoaXNlLzgwOC1DbGF2ZTMud2F2AAAAAAAAAPA/AAAAAAAA4D8AAAAAAADwPwwGg8FgMNg/DAaDwWAw
+        2D+amZmZmZmxP83MzMzMzOs/AAAAAAAAAAAAAAAAAAAAAPyp8dJNYkA//Knx0k1iQD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAOA/AQAAAAAA
+        AAAAAAAAAAAAAAAA8D9AAAAAVVVVVVVVxT//////CAQCgUAggD8AAAAAAADwPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADOpCEhGmWQPwAA
+        AAAAAPA//Knx0k1iMD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {854DA2F9-A34D-44AF-B227-126F61152CE7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.vst.dylib 0 COWBELL 1920167789<56535472736F6D72656173616D706C6F> ""
+        bW9zcu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABIAQAAAQAAAAAAEAA=
+        L1VzZXJzL25pZ2dhL3JlYXBlci1tZWRpYS9kai1lcm5pYS9jb2NoaXNlLzgwOC1Db3diZWxsNS53YXYAAAAAAAAA8D8AAAAAAADgPwAAAAAAAPA/TSaTyWQy2T9NJpPJ
+        ZDLZP5qZmZmZmbE/zczMzMzM6z8AAAAAAAAAAAAAAAAAAAAA/Knx0k1iQD/8qfHSTWJAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA4D8BAAAA
+        AAAAAAAAAAAAAAAAAADwP0AAAABVVVVVVVXFP/////8IBAKBQCCAPwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM6kISEaZZA/
+        AAAAAAAA8D/8qfHSTWIwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {043780AA-CA71-44F9-A485-4C4599477AC4}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS sstillwell/eventhorizon2 ""
+        0 -2 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ECB925D3-C7E1-4FD7-92CD-DB9DBEF450D8}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 227.72620663991935
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B068085E-AF36-4B57-8E1A-C34936B67CD7}
+      IID 259
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69B961C2-C6E5-4531-A72D-C522AE4334BA}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B57BC3E0-77E0-4158-9798-7A8329BAADBA}
+        E 0 90 28 75
+        E 120 80 28 00
+        E 840 90 28 75
+        E 120 80 28 00
+        E 840 90 28 75
+        E 120 80 28 00
+        E 840 90 28 75
+        E 120 80 28 00
+        E 840 90 28 75
+        E 0 90 24 68
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 75
+        E 0 90 24 68
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 75
+        E 0 90 24 68
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 75
+        E 0 90 24 68
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 840 90 28 68
+        E 120 80 28 00
+        E 165960 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 0 90 2d 79
+        E 120 80 28 00
+        E 0 80 2d 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 0 90 2d 7f
+        E 120 80 28 00
+        E 0 80 2d 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 0 90 2d 7f
+        E 120 80 28 00
+        E 0 80 2d 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 120 80 28 00
+        E 840 90 28 7f
+        E 0 90 2d 7f
+        E 120 80 28 00
+        E 0 80 2d 00
+        E 840 90 28 7f
+        E 0 90 2d 60
+        E 120 80 28 00
+        E 0 80 2d 00
+        E 840 90 28 7f
+        E 0 90 2b 7f
+        E 0 90 2d 60
+        E 120 80 28 00
+        E 0 80 2b 00
+        E 0 80 2d 00
+        E 840 90 28 7f
+        e 0 90 2d 60
+        E 120 80 28 00
+        e 0 80 2d 00
+        E 38736 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {1BF259DA-0526-4FAB-B2C0-0D84E42D2FD7}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 218
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 232043.372886 0.029153 78 15 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 1226 153 2474 1056 0 0 0 2 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {66176C87-7295-4A5D-B4FB-052137B923E5}
+    NAME PARTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.07764838953716 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {66176C87-7295-4A5D-B4FB-052137B923E5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {30A6AC16-8414-454A-923A-66F0D51E670D}
+    NAME METRONOME
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {30A6AC16-8414-454A-923A-66F0D51E670D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.7146662272039
+      SNAPOFFS 0
+      LENGTH 58.51851851851852
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E17DF43-F985-4108-9B7E-791E6F71C110}
+      IID 3
+      NAME "audioslave-cochise-metronome-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.48148148148148
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EFD45EB-DBA9-4A2E-8F1F-F58DFAC15A4C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-metronome-E minor-81bpm-441hz.m4a"
+      >
+    >
+  >
+  <TRACK {33DC755B-2376-4D63-984C-890FB52FC21C}
+    NAME BASS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {33DC755B-2376-4D63-984C-890FB52FC21C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.7146662272039
+      SNAPOFFS 0
+      LENGTH 222.0115185185185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80A6CE66-2150-4E2F-B2E3-69873EBEB692}
+      IID 1
+      NAME "audioslave-cochise-bass-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.48148148148148
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AAC953D-46D3-42AB-98AA-BA301830C746}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-bass-E minor-81bpm-441hz.m4a"
+      >
+    >
+  >
+  <TRACK {85356C64-1BBE-406A-8C60-0A205C9B87FD}
+    NAME GUITAR
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {85356C64-1BBE-406A-8C60-0A205C9B87FD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.7146662272039
+      SNAPOFFS 0
+      LENGTH 222.0115185185185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20D038AD-FCFD-4216-9F6B-8618478D4537}
+      IID 4
+      NAME "audioslave-cochise-other-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.48148148148148
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAC10823-8530-4815-B643-984880162CD2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-other-E minor-81bpm-441hz.m4a"
+      >
+    >
+  >
+  <TRACK {56E8B7D1-0D77-466E-946C-8CC7D57BCFDA}
+    NAME VOX
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.46136861156001 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {56E8B7D1-0D77-466E-946C-8CC7D57BCFDA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.7146662272039
+      SNAPOFFS 0
+      LENGTH 222.0115185185185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80A2A500-ECAD-4D23-8BF2-5A37FFA2E719}
+      IID 5
+      NAME "audioslave-cochise-vocals-E minor-81bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.48148148148148
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2A421F1-60CC-4DD4-98CE-38B89AAF79D3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/audioslave-cochise-vocals-E minor-81bpm-441hz.m4a"
+      >
+    >
+  >
+  <TRACK {0024A369-B5FF-4675-9533-A06D33B7A13C}
+    NAME SONG
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0024A369-B5FF-4675-9533-A06D33B7A13C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.7146662272039
+      SNAPOFFS 0
+      LENGTH 222.010582010582
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FA586C3-55A4-42BB-BB22-9DE84BD92F55}
+      IID 6
+      NAME audioslave-cochise.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.48148148148148
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CBA76BC-4F09-42A3-AED7-8A3228D12406}
+      <SOURCE MP3
+        FILE "audio-in/audioslave-cochise.mp3" 1
+      >
+    >
+  >
+>
